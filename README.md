@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP, NodeJS,**
 
-- ⚡ Fun fact **I love linux * _ ***
+- ⚡ Fun fact **I love linux.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
