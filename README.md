@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S1AL53R</h1>
-<h3 align="center">Front-End Developer From 127.0.0.1</h3>
+<h3 align="center">Human From 127.0.0.1</h3>
 
 - 🌱 I’m currently learning **PHP, NodeJS,**
 
