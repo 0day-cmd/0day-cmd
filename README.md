@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP, NodeJS,**
 
-- ⚡ Fun fact **I know how to use my brain :)**
+- ⚡ Fun fact **I use Arch Linux btw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
