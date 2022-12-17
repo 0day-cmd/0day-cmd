@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S1AL53R</h1>
 <h3 align="center">Security From 127.0.0.1</h3>
 
-- 🌱 I’m currently learning **PHP, NodeJS,**
+- 🌱 I’m currently learning **Assembly,**
 
 - ⚡ Fun fact **I use Arch Linux btw**
 
